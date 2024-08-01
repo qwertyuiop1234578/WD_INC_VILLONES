@@ -102,4 +102,7 @@ WD-ProjectName
 
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| pinterest | get some images. | https://ph.pinterest.com/ |
+| Valorant | get some idea. | https://playvalorant.com/en-sg/ |
+| elden ring | get some idea. | https://en.bandainamcoent.eu/elden-ring/elden-ring |
+| stardew valley | get some idea. | https://www.stardewvalley.net/ |
