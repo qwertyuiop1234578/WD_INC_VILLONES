@@ -16,7 +16,7 @@
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=[zyx-0314/WD-Template-Project](https://github.com/qwertyuiop1234578/WD_INC_VILLONES))
 
 ---
 
@@ -54,7 +54,7 @@
 
 ### Key Components
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website
 - Parallax transition
 - Transactional
 
